@@ -1,2 +1,2 @@
 # PetWise
-Practice
+Simple static website
